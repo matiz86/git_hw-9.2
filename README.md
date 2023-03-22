@@ -27,7 +27,7 @@
 
 ![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_zabbix_test_22_03_2023_21_31_40.png)
 
-![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_19_34_54.png)
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_22_48_29.png)
 
 
  wget https://repo.zabbix.com/zabbix/6.2/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.2-4%2Bubuntu22.04_all.deb
