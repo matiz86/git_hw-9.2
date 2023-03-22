@@ -19,13 +19,13 @@
 Задание 2
 Установите Zabbix Agent на два хоста.
 
-https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_19_34_54.png
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_19_34_54.png)
 
-https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_19_35_26.png
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_22_03_2023_19_35_26.png)
 
-https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_zabbix_test2_22_03_2023_21_33_07.png
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_zabbix_test2_22_03_2023_21_33_07.png)
 
-https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_zabbix_test_22_03_2023_21_31_40.png
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_zabbix_test_22_03_2023_21_31_40.png)
 
 
 
