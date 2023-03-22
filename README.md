@@ -3,7 +3,7 @@
 
 Задание 1
 
-https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_13_03_2023_21_57_52.png
+![alt text](https://github.com/matiz86/git_hw-9.2/blob/main/VirtualBox_matiz_13_03_2023_21_57_52.png)
 
 # wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb
 # dpkg -i zabbix-release_6.4-1+debian11_all.deb
